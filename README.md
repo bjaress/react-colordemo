@@ -1,3 +1,7 @@
+A little app I wrote to try out ReactJS.  [Check out the demo.][demo]
+
+[demo]: http://www.bjaress.com/posts/2017-01-02-react-colordemp.html
+
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
