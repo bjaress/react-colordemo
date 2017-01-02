@@ -1,0 +1,22 @@
+.RgbPartEdit > label > * {
+    display: inline-block;
+    padding:0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.RgbPartEdit .label {
+    width: 6ex;
+}
+
+.RgbPartEdit input[type="text"] {
+    width: 4ex;
+    text-align: right;
+}
+
+.RgbPartEdit input[type="range"] {
+    width: calc(100% - 11ex);
+    margin-left: 0.5ex;
+    min-width: 10ex;
+    vertical-align: middle;
+}

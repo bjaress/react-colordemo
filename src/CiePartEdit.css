@@ -1,0 +1,22 @@
+.CiePartEdit > label > * {
+    display: inline-block;
+    padding:0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.CiePartEdit .label {
+    width: 10ex;
+}
+
+.CiePartEdit input[type="text"] {
+    width: 6ex;
+    text-align: right;
+}
+
+.CiePartEdit input[type="range"] {
+    width: calc(100% - 17ex);
+    margin-left: 0.5ex;
+    min-width: 10ex;
+    vertical-align: middle;
+}
