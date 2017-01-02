@@ -1,6 +1,6 @@
 A little app I wrote to try out ReactJS.  [Check out the demo.][demo]
 
-[demo]: http://www.bjaress.com/posts/2017-01-02-react-colordemp.html
+[demo]: http://www.bjaress.com/posts/2017-01-02-react-colordemo.html
 
 ## Table of Contents
 
